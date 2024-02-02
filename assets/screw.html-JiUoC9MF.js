@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as t,c,b as o}from"./app-JabzxadU.js";const r={},s=o("p",null,"一键生成数据库文档，堪称数据库界的Swagger",-1),_=[s];function n(a,l){return t(),c("div",null,_)}const m=e(r,[["render",n],["__file","screw.html.vue"]]);export{m as default};

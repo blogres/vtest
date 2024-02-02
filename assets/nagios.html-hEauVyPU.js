@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as s,c as a,b as e}from"./app-JabzxadU.js";const n={},t=e("h1",{id:"nagios监控平台",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#nagios监控平台"},[e("span",null,"Nagios监控平台")])],-1),c=[t];function r(_,i){return s(),a("div",null,c)}const f=o(n,[["render",r],["__file","nagios.html.vue"]]);export{f as default};

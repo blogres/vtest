@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as t,c as o,b as c}from"./app-JabzxadU.js";const r={},_=c("p",null,"IDEA官方的这个数据库管理神器真香！",-1),a=[_];function s(n,l){return t(),o("div",null,a)}const f=e(r,[["render",s],["__file","datagrip.html.vue"]]);export{f as default};
